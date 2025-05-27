@@ -1,4 +1,4 @@
-# JCS-BOY - Jogja Cyber Securyti
+# JCS-BOY - Jogja Cyber Security
 
 BOY (Basic Offensive Utility) adalah sebuah tool pentesting sederhana berbasis Python yang memiliki fitur port scanning, brute force (SSH), dan pendeteksi celah keamanan.
 
